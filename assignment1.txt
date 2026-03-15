@@ -1,0 +1,176 @@
+Week 1: Assignment 1
+The due date for submitting this assignment has passed.
+Due on 2026-02-04, 23:59 IST.
+Assignment submitted on 2026-01-08, 22:09 IST
+1 point
+Which of the following variable names are INVALID in R?
+ 1_variable
+ variable_1
+ _variable
+ variable@
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+1_variable
+_variable
+variable@
+1 point
+The function ls() in R will
+ set a new working directory path
+ list all objects in our working environment
+ display the path to our working directory
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+list all objects in our working environment
+
+Consider the following code snippet. Based on this, answer questions 3 and 4.
+
+	
+1 point
+Which of the following command is used to access the value “Shyam”?
+ print(patient_list[3][2])
+ print(patient_list[[3]][1])
+ print(patient_list[[3]][2])
+ print(patient_list[[2]][2])
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+print(patient_list[[3]][2])
+1 point
+The output of the code given below is
+	
+ 
+ 
+ 
+ Code will throw an error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+
+1 point
+What is the output of following code?
+		
+ double
+ integer
+ list
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+double
+1 point
+State whether the given statement is True or False.
+The library reshape2 is based around two key functions named melt and cast.
+ True
+ False
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+True
+1 point
+What is the output of following code?
+		
+ 6
+ 4
+ 2
+ 8
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+4
+
+Create the data frame using the code given below and answer questions 8 and 9.
+
+student_data = data.frame(student_id=c(1:4), student_name=c(‘Ram’,‘Harish’,‘Pradeep’,‘Rajesh’))
+1 point
+Choose the correct command to add a column named student_dept to the dataframe student_data.
+ student_datastudent_dept=c(“Commerce”, “Biology”, “English”, “Tamil”)
+ student_data[“student_dept”]= c(“Commerce”,“Biology”, “English”,“Tamil”)
+ student_dept= student_data[c(“Commerce”,“Biology”,“English”,“Tamil”)]
+ None of the above
+Partially Correct.
+Score: 0.5
+Accepted Answers:
+student_datastudent_dept=c(“Commerce”, “Biology”, “English”, “Tamil”)
+student_data[“student_dept”]= c(“Commerce”,“Biology”, “English”,“Tamil”)
+1 point
+Choose the correct command to access the element Tamil in the dataframe student_data.
+ student_data[[4]]
+ student_data[[4]][3]
+ student_data[[3]][4]
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+student_data[[3]][4]
+1 point
+The command to check if a value is of numeric data type is ____.
+ typeof()
+ is.numeric()
+ as.numeric()
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+is.numeric()
+
+
+
+________________________________________________________
+Week 1: Assignment 1 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score
+1 point
+R script files has an extension-----------
+ .Rp
+ .R
+ .S
+ None of the above
+1 point
+In the R code given below, the value of "i” at which the loop breaks is ---------
+
+		n=16
+		x = seq(1,n,2)
+		for (i in x) {
+		if (i == 5){
+		print(i)
+		break
+				   }
+				   }
+ 3
+ 15
+ 5
+ 25
+1 point
+The output of the code given below is ---------
+
+		x =c(1:4) 
+		y =c(6,3) 
+		x *y
+ Error!
+ 6 12 9 12
+ 6  6  8  8
+ 6  6 18 12
+1 point
+Which one of the following function is can be used to list the installed packages in R?
+ library( )
+ library[ ]
+ library{ }
+ All the above
+1 point
+The value(s) of "y" at the end of the program given below is--
+
+		x1=matrix(10:18,3,3)
+		x2=matrix(11:19,3,3)
+		m =cbind(apply(x1,1,min),apply(x2,1,max))
+		print(m)
+
+		y =apply(m,1,mean)
+		print(y)
+ 11 12 13
+ 30 20 40
+ 13.5 14.5 15.5
+ 2 12

@@ -1,0 +1,189 @@
+Week 6: Assignment 6
+The due date for submitting this assignment has passed.
+Due on 2026-03-04, 23:59 IST.
+Assignment submitted on 2026-03-04, 20:10 IST
+
+For the following set of questions 1, 2, 3, 4, 5, use the dataset bonds.txt. This dataset contains 2 variables, Coupon rate and Bid price.
+
+1 point
+What is the relationship between the variables, Coupon rate and Bid price?
+ Coupon rate = 99.95 + 0.24 * Bid price
+ Bid price = 99.95 + 0.24 * Coupon rate
+ Bid price = 74.7865 + 3.066 * Coupon rate
+ Coupon rate = 74.7865 + 3.066 * Bid price
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Bid price = 74.7865 + 3.066 * Coupon rate
+1 point
+Choose the correct option that best describes the relation between the variables Coupon rate and Bid price in the given data.
+ Strong positive correlation
+ Weak positive correlation
+ Strong negative correlation
+ Weak negative correlation
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Strong positive correlation
+1 point
+What is the R-Squared value of the model obtained in Q1?
+ 0.2413
+ 0.12
+ 0.7516
+ 0.5
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+0.7516
+1 point
+What is the adjusted R-Squared value of the model obtained in Q1?
+ 0.22
+ 0.7441
+ 0.088
+ 0.5
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+0.7441
+1 point
+Based on the model relationship obtained from Q1, what is the residual error obtained while calculating the bid price of a bond with coupon rate of 3?
+ 10.5155
+ -10.5155
+ 6.17
+ 0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+10.5155
+1 point
+State whether the following statement is True or False.
+Covariance is a better metric to analyze the association between two numerical variables than correlation.
+ True
+ False
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+False
+1 point
+If R2 is 0.6, SSR=200 and SST=500, then SSE is
+ 500
+ 200
+ 300
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+300
+1 point
+Linear Regression is an optimization problem where we attempt to minimize
+ SSR (residual sum-of-squares)
+ SST (total sum-of-squares)
+ SSE (sum-squared error)
+ Slope
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+SSE (sum-squared error)
+1 point
+The model built from the data given below is Y = 0.2x + 60. Find the values for R2 and Adjusted R2
+			
+ R2 is 0.022 and Adjusted R2 is −0.303
+ R2 is 0.022 and Adjusted R2 is −0.0303
+ R2 is 0.022 and Adjusted R2 is 0.303
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+R2 is 0.022 and Adjusted R2 is −0.303
+1 point
+Identify the parameters β0
+ and β1
+ that fits the linear model β0+β1x
+ using the following information: total sum of squares of X,SSXX=52.53,SSXY=52.01,
+ mean of X,X¯=4.46
+, and mean of Y,Y^=6.32.
+ 1.9 and 0.99
+ 10.74 and 1.01
+ 4.42 and 1.01
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+1.9 and 0.99
+
+________________________________________________________
+Week 6: Assignment 6 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score 
+1 point
+The higher the value of R2 for a model, the observations are more closely grouped around:
+ the origin
+ the best fit line
+ average values of the predicted variable
+ the intercept
+1 point
+The standard assumption of ordinary least squares regression is that:
+ there are no errors in measurements of independent and dependent variables
+ there are errors only in measurement of independent variable
+ there are errors only in measurement of dependent variable
+ there are errors both in measurements of independent and dependent variables
+1 point
+The relationship between the dependent and independent variables in a simple linear regression is described by
+ F-statistic
+ predicted value and error
+ standardised residuals
+ coefficient and intercept
+1 point
+The Pearson’s correlation coefficient between two parameters is calculated to be 0.10. What can be inferred from the correlation coefficient regarding
+	   the relationship between the two parameters?
+ There exists a weak negative relationship between two variables
+ There exists a strong negative relationship between two variables
+ There exists a weak positive relationship between two variables
+ Correlation coefficient cannot possess this value
+1 point
+Standardised residuals have:-
+ binomial distribution with n degrees of freedom
+ t distribution with n-2 degrees of freedom
+ log-normal distribution with n-2 degrees of freedom
+ chi-square distribution with n degrees of freedom
+Check Answers and Submit
+
+________________________________________________________
+Week 6: Assignment 6 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score 
+1 point
+The higher the value of R2 for a model, the observations are more closely grouped around:
+ the origin
+ the best fit line
+ average values of the predicted variable
+ the intercept
+1 point
+The standard assumption of ordinary least squares regression is that:
+ there are no errors in measurements of independent and dependent variables
+ there are errors only in measurement of independent variable
+ there are errors only in measurement of dependent variable
+ there are errors both in measurements of independent and dependent variables
+1 point
+The relationship between the dependent and independent variables in a simple linear regression is described by
+ F-statistic
+ predicted value and error
+ standardised residuals
+ coefficient and intercept
+1 point
+The Pearson’s correlation coefficient between two parameters is calculated to be 0.10. What can be inferred from the correlation coefficient regarding
+	   the relationship between the two parameters?
+ There exists a weak negative relationship between two variables
+ There exists a strong negative relationship between two variables
+ There exists a weak positive relationship between two variables
+ Correlation coefficient cannot possess this value
+1 point
+Standardised residuals have:-
+ binomial distribution with n degrees of freedom
+ t distribution with n-2 degrees of freedom
+ log-normal distribution with n-2 degrees of freedom
+ chi-square distribution with n degrees of freedom
+Check Answers and Submit
+

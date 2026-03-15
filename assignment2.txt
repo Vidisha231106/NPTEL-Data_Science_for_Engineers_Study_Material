@@ -1,0 +1,237 @@
+Week 2: Assignment 2
+The due date for submitting this assignment has passed.
+Due on 2026-02-04, 23:59 IST.
+Assignment submitted on 2026-02-04, 21:31 IST
+1 point
+Are the vectors [−24],[7−2]
+ and [3−6]
+ linearly independent?
+ Yes
+ No
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+No
+1 point
+Does the set, S={(1,1),(1,2)}
+ spans R2
+?
+ Yes
+ No
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Yes
+1 point
+Consider the following system of linear equations of the form Ax=b:
+
+							2x−3y+6z=14
+
+							x+y−2z=−3
+
+Which among the following are correct?
+
+⎡⎣⎢1−40⎤⎦⎥
+ is a solution to Ax=b
+
+⎡⎣⎢021⎤⎦⎥
+ is a solution to Ax=b
+
+⎡⎣⎢1−40⎤⎦⎥
+ is a solution to Ax=0
+
+⎡⎣⎢021⎤⎦⎥
+ is a solution to Ax=0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+⎡⎣⎢1−40⎤⎦⎥
+ is a solution to Ax=b
+⎡⎣⎢021⎤⎦⎥
+ is a solution to Ax=0
+
+Consider the following systerm of linear equation:
+								x+y+z=−2
+								x+2y−z=1
+								2x+ay+bz=2
+1 point
+Find the conditions on a
+ and b
+ for which the above system has no solution.
+
+2a+b−6=0
+
+a≠4,2a+b−6=0
+
+a=4,b=−2
+
+2a+b−6≠0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a≠4,2a+b−6=0
+1 point
+Find the conditions on a
+ and b
+ for which the above system has a unique solution.
+
+2a+b−6=0
+
+a≠4,2a+b−6=0
+
+a=4,b=−2
+
+2a+b−6≠0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+2a+b−6≠0
+1 point
+Find the conditions on a
+ and b
+ for which the above system has infite number of solutions.
+
+2a+b−6=0
+
+a≠4,2a+b−6=0
+
+a=4,b=−2
+
+2a+b−6≠0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a=4,b=−2
+
+In solving the system Ax=b
+ in the variables x1,x2,x3
+ and x4
+, Gaussian elimination on the Augmented matrix [A|b]
+ led to the following row echelon form
+										
+1 point
+Identify the number of free variable from the above rwo echelon matrix.
+ 0
+ 1
+ 2
+ 3
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+1
+1 point
+Which among the following is correct for the above system Ax=b
+?
+ It has infinite number of solutions.
+ It has a unique solution.
+ It has no solution.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+It has infinite number of solutions.
+1 point
+For what values of a
+ are matrix A=[a−21a+3]
+ not invertible?
+
+a=1
+
+a=−2
+
+a=−1
+
+a=2
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a=−2
+a=−1
+1 point
+Which among the following is true for the determinant of a matrix?
+ The determinant of a diagonal matrix is the product of its diagonal entries.
+ If one row of a matrix is a scalar multiple of another, the determinant is 1.
+ If one row of a matrix is a scalar multiple of another, the determinant is 0.
+ The determinant of a permutation matrix can only be 1.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+The determinant of a diagonal matrix is the product of its diagonal entries.
+If one row of a matrix is a scalar multiple of another, the determinant is 0.
+1 point
+Which among the following are the eigenvalues of matrix A=⎛⎝⎜54−481−4168−11⎞⎠⎟
+?
+
+1,3,−3
+
+1,3,3
+
+−1,3,3
+
+1,−3,−3
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+1,−3,−3
+Find the nullity of A=⎡⎣⎢110−3−30−21141−1⎤⎦⎥
+2
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+(Type: Numeric) 2
+1 point
+1 point
+Let A=⎡⎣⎢−122⎤⎦⎥
+. Suppose the eighen values corresponding to AAT
+ are a,b
+ and c
+, then find the value of ab+bc+ca
+ 9
+ 0
+ 81
+ 18
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+0
+
+________________________________________________________
+Week 2: Assignment 2 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score
+1 point
+The rank of the matrix A given below is:
+
+  A=⎡⎣⎢⎢⎢⎢⎢⎢1000005000000000004000002⎤⎦⎥⎥⎥⎥⎥⎥
+ 4
+ 5
+ 3
+ 1
+1 point
+In the system of equations2x−y+3z=1,−5x+20y+5z=15,6x−3y+9z=“?”
+, for what value of the “?” , the system of equations have infinite solutions
+ 1/3
+ 3
+ 1/2
+ 1
+1 point
+For a system of Linear equations of the form AX=B
+, a unique solution exists if: 
+ rank(A)=rank(B)
+ rank(A)=rank(A,B)
+ rank(B)=rank(A,B)
+ rank(A)=rank(B)=n
+1 point
+The rank of the matrix A=⎡⎣⎢57−5−3−51733⎤⎦⎥
+ is
+ 1
+ 2
+ 3
+ 0
+1 point
+Eigenvalues of the matrix ⎡⎣⎢4−10−22−20−14⎤⎦⎥
+are (Roundoff to 2 decimal places)
+ 0.64, 7.07, -0.46
+  4.67, -2.96, 2.12
+ 5.23, 4.00 ,0.76
+ None of the above

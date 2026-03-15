@@ -1,0 +1,92 @@
+Week 8: Assignment 8
+Due date: 2026-03-18, 23:59 IST.
+Assignment not submitted
+	Consider the dataset “USArrests.csv”. Answer questions 1 to 4 based on the information given below:
+
+	 This data set contains statistics, in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.
+
+		
+Set the column “States” as index of the data frame while reading the data
+Set the random number generator to set.seed(123)
+Normalize the data using scale function and build the K-means algorithm with the given conditions:
+		– number of clusters = 4
+		– nstart=20
+1 point
+According to the built model, the within cluster sum of squares for each cluster is _______ (the order of values in each option could be different):-
+ 8.316061 11.952463 16.212213 19.922437
+ 7.453059 12.158682 13.212213 21.158766
+ 8.316061 13.952463 15.212213 19.922437
+ None of the above
+1 point
+According to the built model, the size of each cluster is _________ (the order of values in each option could be different):-
+ 13 13 7 14
+ 11 18 25 24
+ 8 13 16 13
+ None of the above
+1 point
+The Between Cluster Sum-of-Squares (BCSS) value of the built K-means model is ________ (Choose the appropriate range)
+ 100 - 200
+ 200 - 300
+ 300 – 350
+ None of the above
+1 point
+The Total Sum-of-Squares value of the built k-means model is ________ (Choose the appropriate range)
+ 100 - 200
+ 200 - 300
+ 300 – 350
+ None of the above
+1 point
+Which of the statement is INCORRECT about KNN algorithm?
+ KNN works ONLY for binary classification problems
+ If k=1, then the algorithm is simply called the nearest neighbour algorithm
+ Number of neighbours (K) will influence classification output
+ None of the above
+1 point
+K means clustering algorithm clusters the data points based on:-
+ Dependent and independent variables
+ The eigen values
+ Distance between the points and a cluster centre
+ None of the above
+1 point
+The method / metric which is NOT useful to determine the optimal number of clusters in unsupervised clustering algorithms is
+ Scatter plot
+ Elbow method
+ Dendrogram
+ None of the above
+1 point
+The unsupervised learning algorithm which aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest centroid is
+ Hierarchical clustering
+ K-means clustering
+ KNN
+ None of the above
+You may submit any number of times before the due date. The final submission will be considered for grading.
+________________________________________________________
+Week 8: Assignment 8 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score 
+1 point
+The most commonly used distance metric to calculate distance between centroid of each cluster and data points in K-means algorithm is
+ Chebyshev distance
+ Manhattan
+ Euclidean distance
+ None of the above
+1 point
+Which of the following statement is NOT TRUE about kNN algorithm?
+ It is a non-parametric algorithm
+ It is an instance based learning algorithm
+ Explicit training and testing phases are involved while implementing kNN
+ None of the above
+1 point
+Scaling is important in distance-based algorithms because
+ variables with higher magnitude will influence the results more
+ distance calculations are affected by the magnitude of the variables
+ The data is large and has many features
+ Both A and B
+1 point
+Which of the following is TRUE with respect to K means clustering?
+ The inter cluster distance is minimized and intra cluster distance is maximized
+ The inter cluster distance is maximized and intra cluster distance is minimized
+ Both inter cluster and intra cluster distance are minimized
+ Both inter cluster and intra cluster distance are maximized
+Check Answers and Submit

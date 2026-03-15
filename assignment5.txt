@@ -1,0 +1,232 @@
+Week 5: Assignment 5
+The due date for submitting this assignment has passed.
+Due on 2026-02-25, 23:59 IST.
+Assignment submitted on 2026-02-17, 10:31 IST
+1 point
+Which of the following statements is/are not TRUE with respect to the multi variate optimization?
+
+I - The gradient of a function at a point is parallel to the contours
+II - Gradient points in the direction of greatest increase of the function
+III - Negative gradients points in the direction of the greatest decrease of the function
+IV - Hessian is a non-symmetric matrix
+ I
+ II and III
+ I and IV
+ III and IV
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+I and IV
+1 point
+The solution to an unconstrained optimization problem is always the same as the solution to the constrained one.
+ True
+ False
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+False
+1 point
+Gradient based algorithm methods compute
+ only step length at each iteration
+ both direction and step length at each iteration
+ only direction at each iteration
+ none of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+both direction and step length at each iteration
+1 point
+For an unconstrained multivariate optimization given f(x¯)
+, the necessary second order condition for x¯∗
+ to be the minimizer of f(x¯)
+ is
+
+∇2f(x¯∗)
+ must be negative definite.
+
+∇2f(x¯∗)
+ must be positive definite.
+
+∇f(x¯∗)=0
+
+f''(x∗)>0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+∇2f(x¯∗)
+ must be positive definite.
+
+Consider an optimization problem minx1,x2∈Rf(x1,x2)=x21+4x22−2x1+8x2
+.
+1 point
+Which among the following is the stationary point for f(x1,x2)
+?
+ (0, 0)
+ (1, −1)
+ (−1, −1)
+ (−1, 1)
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+(1, −1)
+1 point
+Find the eighen values corresponding to Hessian matrix of f
+.
+ 1, −1
+ 1, 1
+ 2, 8
+ 0, 2
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+2, 8
+1 point
+Find the minimum value of f
+.
+ 0
+ −5
+ −1
+ 1
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+−5
+1 point
+Now, in order to find the minimum value of f
+ subject to the constraint
+
+					x1+2x2=7
+,
+
+what should be the first order condition for x∗¯
+ to be a minimizer of f(x1,x2)
+?
+
+				2x∗1+2=λ
+
+				−8x∗2−8=2λ
+
+				x∗1+2x∗2=7
+
+				−2x∗1+2=λ
+
+				−8x∗2−8=2λ
+
+				x∗1+2x∗2=7
+
+				2x∗1−2=−λ
+
+				8x∗2+8=−2λ
+
+				x∗1+2x∗2=7
+
+				−2x∗1+2=−λ
+
+				−8x∗2−8=−2λ
+
+				x∗1+2x∗2=7
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+				−2x∗1+2=λ
+
+				−8x∗2−8=2λ
+
+				x∗1+2x∗2=7
+OR
+				2x∗1−2=−λ
+
+				8x∗2+8=−2λ
+
+				x∗1+2x∗2=7
+1 point
+What is the minimum value of f(x1,x2)
+ subject to the above mentioned constrained?
+ −5
+ −1
+ 27
+ 0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+27
+1 point
+Find the maximum value of f(x,y)=49−x2−y2
+ subject to the constraints x+3y=10
+.
+ 49
+ 46
+ 59
+ 39
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+39
+1 point
+Consider an optimization problem minx1,x2x2−xy+y2
+ subject to the constraints
+				2x+y≤1
+
+				x+2y≥2
+
+				x≥−1
+
+Find the lagrangian function for the above optimization problem.
+
+L(x,y,μ1,μ2,μ3)=x2−xy+y2+μ1(2x+y−1)+μ2(2−x−2y)+μ3(−x−1)
+
+L(x,y,μ1,μ2,μ3)=x2−xy+y2+μ1(2x+y−1)+μ2(x+2y−2)+μ3(−x−1)
+
+L(x,y,μ1,μ2,μ3)=x2−xy+y2+μ1(2x+y−1)+μ2(x+2y−2)+μ3(x+1)
+
+L(x,y,μ1,μ2,μ3)=x2−xy+y2+μ1(1−2x−y)+μ2(2−x−2y)+μ3(−x−1)
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+L(x,y,μ1,μ2,μ3)=x2−xy+y2+μ1(2x+y−1)+μ2(2−x−2y)+μ3(−x−1)
+
+________________________________________________________
+Week 5: Assignment 5 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score 
+1 point
+For a function f(x,y)=2x2−xy+y2−3x−y
+, the stationary point (x,y)
+ is
+	   (Hint: Stationary point is a solution to the first order necessary conditions for maxima or minima of f(x,y))
+ (0,1)
+ (-1,0)
+ (1,0)
+ (1,1)
+1 point
+The Hessian matrix of f(x,y)=2x2−xy+y2−3x−y
+ is
+
+[−411−2]
+
+[1−2−41]
+
+[4−1−12]
+1 point
+The Eigenvalues of Hessian matrix of f(x,y)=2x2−xy+y2−3x−y
+ is
+ -1.585786, -4.414214
+ 3.828427, -1.828427
+ 4.414214, 1.585786
+ -3.828427, 1.828427
+1 point
+The Hessian matrix of f(x,y)=2x2−xy+y2−3x−y
+ is
+ positive definite
+ positive semidefinite
+ negative definite
+ negative semidefinite
+1 point
+The function f(x,y)=2x2−2y2
+ has no stationary point
+ has a stationary point at (1,1)
+ has a stationary point at (1,-1)
+ has a stationary point at (0,0)
+
+ 

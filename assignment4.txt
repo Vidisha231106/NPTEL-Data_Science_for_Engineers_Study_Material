@@ -1,0 +1,221 @@
+Week 4: Assignment 4
+The due date for submitting this assignment has passed.
+Due on 2026-02-18, 23:59 IST.
+Assignment submitted on 2026-02-17, 10:26 IST
+3 points
+Let f(x)=x3+3x2−24x+7
+. Select the correct options from the following:
+
+x=2
+ will give the maximum for f(x)
+.
+
+x=2
+ will give the minimum for f(x)
+.
+
+Maximum value of f(x)
+ is 87
+.
+
+The stationary points for f(x)
+ are 2
+ and 4
+.
+Yes, the answer is correct.
+Score: 3
+Accepted Answers:
+x=2
+ will give the minimum for f(x)
+.
+Maximum value of f(x)
+ is 87
+.
+2 points
+Find the gradient of f(x,y)=x2yat(x,y)=(1,3)
+.
+
+∇f=[16]
+
+∇f=[61]
+
+∇f=[69]
+
+∇f=[33]
+Yes, the answer is correct.
+Score: 2
+Accepted Answers:
+∇f=[61]
+2 points
+Find the Hessian matrix for f(x,y)=x2yat(x,y)=(1,3).
+
+∇2f=[3220]
+
+∇2f=[3330]
+
+∇2f=[6220]
+
+∇2f=[6330]
+Yes, the answer is correct.
+Score: 2
+Accepted Answers:
+∇2f=[6220]
+1 point
+Let f(x,y)=−3x2−6xy−6y2
+. The point (0,0)
+ is a
+ saddle point
+ maxima
+ minima
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+maxima
+1 point
+For which numbers b
+ is the matrix A=[1bb9]
+ positive definite?
+
+−3<b<3
+
+b=3
+
+b=−3
+
+−3≤b≤3
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+−3<b<3
+1 point
+Consider f(x)=x3−12x−5
+. Which among the following statements are true?
+
+f(x)
+ is increasing in the interval (−2,2)
+.
+
+f(x)
+ is increasing in the interval(2,∞)
+.
+
+f(x)
+ is decreasing in the interval (−∞,−2)
+.
+
+f(x)
+ is decreasing in the interval (−2,2)
+.
+Partially Correct.
+Score: 0.5
+Accepted Answers:
+f(x)
+ is increasing in the interval(2,∞)
+.
+f(x)
+ is decreasing in the interval (−2,2)
+.
+1 point
+Consider the following optimization problem:
+					  maxx∈Rf(x)
+
+, where
+			f(x)=x4+7x3+5x2−17x+3
+
+Let x∗
+ be the maximizer of f(x)
+. What is the second order sufficient condition for x∗
+ to be the maximizer of the function f(x)
+?
+
+4x3+21x2+10x−17=0
+
+12x2+42x+10=0
+
+12x2+42x+10>0
+
+12x2+42x+10<0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+12x2+42x+10<0
+1 point
+In optimization problem, the function that we want to optimize is called
+ Decision function
+ Constraints function
+ Optimal function
+ Objective function
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Objective function
+1 point
+The optimization problem minxf(x)
+ can also be written as maxxf(x)
+.
+ True
+ False
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+False
+1 point
+Gradient descent algorithm converges to the local minimum.
+ True
+ False
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+True
+
+________________________________________________________
+Week 4: Assignment 4 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score
+1 point
+Class  of  optimization problems WITH NO constraints are known as  
+ constrained optimization problems
+ unconstrained optimization problems
+ linear constrained optimization problems
+ none of the above
+1 point
+The optimum for a function f(x)
+ at x∗
+, exists if:
+
+If the first derivative at x∗
+ is zero
+
+If the first derivative at x∗
+ is positive
+
+If the first derivative at x∗
+ is negative
+ None of the above
+1 point
+When the feasibility regions defined by equality constraints and inequality constraints are
+compared,
+ The regions defined by both are exactly the same
+ The region defined by the inequality constraint is greater
+ The region defined by the equality constraint is greater
+ none of the above
+1 point
+If f(x)=12x4−2x3+9x2+5
+, then the first order necessary condition for either maxima or minima of f(x)
+ is
+
+24x2+4x−6=0
+
+48x3−6x2+18x=0
+
+36x3−2x2−6x=0
+
+48x2−4x−6=0
+1 point
+The restrictions on the possible values of the solution to the optimization problem are called:
+ objective functions
+ cost functions
+ equality/inequality constraints
+ none
+Check Answers and Submit

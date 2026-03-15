@@ -1,0 +1,206 @@
+Week 3: Assignment 3
+The due date for submitting this assignment has passed.
+Due on 2026-02-11, 23:59 IST.
+Assignment submitted on 2026-02-11, 22:34 IST
+1 point
+Sumit wants to contact one of his friends, but he remembers only the first 9 of the 10 digits of the contact number. He is sure that the last digit of the contact number is an odd number. He selects an odd number randomly. If the random variable X
+ denotes the last digit of the contact number, then calculate Var(X)
+.
+ 5
+ 8
+ 33
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+8
+1 point
+Suppose X∼
+ Normal (μ,4)
+. For n=20
+ iid samples of X
+, the observed sample mean is 5.2. What conclusion would a z
+-test reach if the null hypothesis assumes μ=5
+ (against an alternative hypothesis μ≠5
+) at a significance level of α=0.05
+? Use F−1z(0.025)=−1.9599
+
+Accept H0
+
+Reject H0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Accept H0
+1 point
+A box contains 8 items out of which 2 are defective. A sample of 5 items is to be selected randomly (without replacement) from the box. If the random variable X
+ represents the number of defective items in a selection of 5 items, then find E(X)
+.(Enter the answer correct to 2 decimal places)
+ 1.25
+ 5
+ 0.25
+ 1
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+1.25
+1 point
+Suppose X∼Normal(μ,9)
+. For n=100
+ iid samples of X, the observed sample mean s 11.8. What conclusion would a z
+-test reach if the null hypothesis assumes μ=10.5
+ (against an alternative hypothesis μ≠10.5)
+?
+
+Accept H0
+ at a significance level of 0.10.
+
+Reject H0
+ at a significance level of 0.10.
+
+Accept H0
+ at a significance level of 0.05.
+
+Reject H0
+ at a significance level of 0.05.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Reject H0
+ at a significance level of 0.10.
+Reject H0
+ at a significance level of 0.05.
+1 point
+Let X
+ and Y
+ be two independent random variables with Var(X)=9
+ and Var(Y)=3
+, find Var(4X−2Y+6)
+.
+ 100
+ 140
+ 156
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+156
+0 points
+The correlation coefficient of two random variable X
+ and Y
+ is 14, their variance is given by 3 and 5. Compute Cov(X,Y)
+.
+ -0.854
+ 0.561
+ -0.968
+ None of the above
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+-0.968
+1 point
+When will you reject the Null hypothesis?
+
+p
+ value greater than α
+
+p
+ value less than α
+
+p
+ value equal to α
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+p
+ value less than α
+1 point
+A sample of N
+ observations are independently drawn from a normal distribution. The sample variance follows
+ Normal distribution
+
+Chi-square with N
+ degrees of freedom
+
+Chi-square with N−1
+ degrees of freedom
+
+t-distribution with N−1
+ degrees of freedom
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Chi-square with N−1
+ degrees of freedom
+0 points
+A car manufacturer purchases car batteries from two different suppliers. Supplier X
+ provides 55% of the batteries and supplier Y
+ provides the rest. 5% of all batteries from supplier X
+ are defective and 4% of all batteries from supplier Y
+ are defective. You select a battery from the bulk and you found it to be defective. What is the probability that it is from Supplier X
+?
+ 0.0455
+ 0.455
+ 0.0275
+ 0.018
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+0.0275
+1 point
+Which one of the following is best measure of central tendency for categorical data?
+ Mean
+ Median
+ Mode
+ None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+Mode
+________________________________________________________
+Week 3: Assignment 3 (Non Graded)
+Assignment not submitted
+
+Note : This assignment is only for practice purpose and it will not be counted towards the Final score
+1 point
+A and B are two events. The probability that at least one of them occurs is given by
+
+P(A∩Bc)+P(Ac∩B)
+
+P(A)+P(B)−P(A∩B)
+
+P(A)+P(B)+P(A∩B)
+
+P(Ac)+P(Bc)−2P(Ac∩Bc)
+1 point
+Two tube lights are installed in a room. Probability of light A failing is 0.20 while the probability of light B failing is 0.15. What is the
+	   probability that both the lights are working on a given day? (final value is rounded off to 2 decimal places)
+ 0.50
+ 0.54
+ 0.80
+ 0.68
+1 point
+Given that the random variable X follows a chi-square distribution with 4 degrees of freedom and P(X≤x)=0.5. Then the value of X is
+ 3.357
+ -3.357
+ -3.325
+ 3.325
+1 point
+The possible values of the correlation coefficient lies between:
+ 0 to -1
+ -1 to 1
+ -∞ to ∞
+ 0 to ∞
+1 point
+50% of the employees of the ABC corporation are college graduates. Of these, 15% are in sales. Of the employees who did not graduate
+	   from college, 70% are in sales.
+
+	   The probability of an employee selected at random is in sales
+	   (final value is rounded off to 2 decimal places)
+ 0.50
+ 0.15
+ 0.43
+ 0.70
+
+ 
