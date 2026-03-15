@@ -30,6 +30,8 @@ How stretched or squeezed is the data?
 ## 2. Probability Theory
 
 Probability quantifies the likelihood of events.
+*   **Independent Events**: The probability of two independent events $A$ AND $B$ occurring simultaneously is the mathematically calculated product of their distinct probabilities: $P(A \cap B) = P(A) \times P(B)$.
+*   **Union of Events**: The mathematical probability that strictly at least one of two particular events occurs is strictly formulated as: $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
 
 ### 2.1 Random Variables
 A random variable mathematically represents the outcome of a random phenomenon.

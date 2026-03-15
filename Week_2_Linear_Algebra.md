@@ -21,6 +21,9 @@ A matrix is a 2D array of numbers. In data science, a dataset is typically repre
 *   **Transpose ($\mathbf{A}^T$)**: Flips the matrix over its diagonal. Rows become columns and vice versa. $(\mathbf{AB})^T = \mathbf{B}^T \mathbf{A}^T$.
 *   **Identity Matrix ($\mathbf{I}$)**: A square matrix with $1$s on the diagonal and $0$s elsewhere. $\mathbf{AI} = \mathbf{IA} = \mathbf{A}$.
 *   **Inverse Matrix ($\mathbf{A}^{-1}$)**: For a square matrix $\mathbf{A}$, if an inverse exists, $\mathbf{A}\mathbf{A}^{-1} = \mathbf{I}$. This is heavily used to solve systems of linear equations ($\mathbf{Ax} = \mathbf{b} \implies \mathbf{x} = \mathbf{A}^{-1}\mathbf{b}$).
+*   **Determinants Features**: 
+    *   The determinant of a diagonal matrix is simply the explicitly calculated mathematically product of its distinct diagonal entries. 
+    *   If one specific row of a given matrix is exactly a mathematical scalar multiple of a different row, the matrix explicitly physically collapses, mathematically yielding a determinant of strictly precisely $0$.
 
 ## 2. Rank and Null Space
 

@@ -14,7 +14,12 @@ Data Science is the practice of extracting insight and knowledge from structured
 R is a language built *by* statisticians *for* statisticians, making it incredibly powerful for EDA, statistical modeling, and visualization.
 
 ## 2. Basics of R: Variables and Data Types
-In R, you don't need to declare the data type of a variable before using it; R dynamically types variables based on the value assigned to them. The assignment operator is `<-`.
+In R, you don't need to declare the data type of a variable before using it; R dynamically types variables based on the value assigned to them. The assignment operator is `<-` or `=`.
+
+### Variable Naming Rules
+*   Variable names can consist of letters, numbers, dots (`.`), and underscores (`_`).
+*   They **must** start with a letter or a dot (but not a dot followed by a number). E.g., `_myVar` and `1_variable` are **strictly invalid**.
+*   Built-in functions like `library()` are used to load installed packages.
 
 ### Fundamental Data Types (Atomic Classes)
 *   **Numeric**: The default type for numbers. Includes floating-point (decimals).

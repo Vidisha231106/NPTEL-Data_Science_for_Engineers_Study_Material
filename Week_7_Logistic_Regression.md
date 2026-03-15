@@ -63,6 +63,8 @@ If you train your model on Dataset A and evaluate it on Dataset A, you will get 
 4.  In iteration 2, fold 2 is withheld, and it trains on folds 1, 3...$k$.
 5.  This repeats $k$ times. The final generalized accuracy is the calculated average of the $k$ resulting metrics.
 
+*Note on other techniques*: **Leave-One-Out Cross-Validation (LOOCV)** is an extreme case of k-fold where $k$ equals the total number of observations $N$. The **Validation Set Approach** splits the data only once into one training set and one testing set.
+
 ## 4. Implementation in R
 
 Logistic regression falls under the umbrella of Generalized Linear Models (GLMs).
