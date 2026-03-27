@@ -230,7 +230,32 @@ When summarizing data in R (e.g., finding the mean of specific columns like Peta
 
 *Note for exams: If you see options like `sapply(..., 2, mean)` or `lapply(..., 2, mean)`, the syntax is incorrect because only `apply()` requires and accepts the `MARGIN` (1 or 2) argument.*
 
-## 8. Key Takeaways from Practice Assignment
+## 8. Identifying Normal Distribution
+
+In statistical modeling, it is often important to determine if independent variables follow a Normal Distribution (Gaussian distribution / "bell curve"). This implies the data is symmetrical around the mean and tapers off equally toward the tails. 
+
+### 8.1 Visual Inspection Methods
+Visual tools are the first step to checking a data's "shape":
+*   **Histogram**: The most common method. Look for a symmetric, bell-shaped curve. 
+*   **Q-Q Plot (Quantile-Quantile Plot)**: Compares data quantiles against theoretical normal distribution quantiles. If points fall roughly along a straight diagonal line, it is normally distributed. 
+*   **Box Plot**: A symmetric box plot where the median is in the center and whiskers are equal length suggests normality.
+
+### 8.2 Descriptive Statistics
+*   **Central Tendency**: Mean $\approx$ Median $\approx$ Mode.
+*   **Skewness**: A value of 0 is perfectly symmetric. Values between -0.5 and 0.5 mean the data is nearly normal.
+*   **Kurtosis**: Measures the "fatness" of tails. A normal distribution has kurtosis of 3 (excess kurtosis of 0).
+*   **The 68-95-99.7 Rule**: ~68% of data falls within 1$\sigma$, 95% within 2$\sigma$, and 99.7% within 3$\sigma$ of the mean.
+
+### 8.3 Formal Statistical Tests
+These tests provide a mathematical answer based on test-statistics and p-values. If the p-value is $>0.05$, we fail to reject the null hypothesis, keeping the assumption that data is normal.
+*   **Shapiro-Wilk Test**: Best for small to medium datasets (highly reliable).
+*   **Kolmogorov-Smirnov (K-S) Test**: Best for comparing data to a known distribution.
+*   **Anderson-Darling Test**: Similar to K-S but weighting tails more heavily.
+*   **D'Agostino's K-Squared Test**: Uses skewness and kurtosis.
+
+*(Note logic regarding the standard `iris` dataset: Frequently, for foundational ML exercises, standard features like Sepal Length and Petal Length are treated as normally distributed).*
+
+## 9. Key Takeaways from Practice Assignment
 
 1.  **Odds Ratio**: Defined formally as the ratio of the probability of an event occurring to the probability of the event not occurring.
 2.  **Misclassification Rate**: Calculated from the confusion matrix as $\frac{\text{False Negative} + \text{False Positive}}{\text{Total number of samples}}$.
